@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.countbtn{
+    padding: 10px 20px;
+    border-radius: 7px;
+    background-color: yellow;
+}
